@@ -1,6 +1,6 @@
-<PRODUCT_TITLE/optional>
+PRODUCT_TITLE
 
-Copyright (c) <YEAR> <ENTITY>
+Copyright (c) YEAR ENTITY
 
 All rights reserved.
 
